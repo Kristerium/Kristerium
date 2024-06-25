@@ -1,4 +1,4 @@
-**Im OK with:** <br>
+**Im good with:** <br>
 [![My Skills](https://skillicons.dev/icons?i=html)](https://github.com/kristerium)
 
 **Im OK with:** <br>
